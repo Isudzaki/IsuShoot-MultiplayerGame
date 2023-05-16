@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/Menue/Style/main.uss?fileID=7433441132597879392&amp;guid=9627fe4c86a473347ad43afb2e2757eb&amp;type=3#main" />
+    <ui:VisualElement class="main-panel" style="align-items: center; flex-direction: column; justify-content: flex-start;">
+        <ui:Label text="Настройки игры" display-tooltip-when-elided="true" class="Lable" />
+        <ui:Button text="Х" display-tooltip-when-elided="true" name="ExitFromSettings" style="left: 1331px; position: absolute; top: 28px; right: 10px; bottom: 620px; font-size: 30px; background-color: rgba(164, 89, 89, 255);" />
+    </ui:VisualElement>
+</ui:UXML>

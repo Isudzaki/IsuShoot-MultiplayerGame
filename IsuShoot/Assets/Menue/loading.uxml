@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/Menue/Style/main.uss?fileID=7433441132597879392&amp;guid=9627fe4c86a473347ad43afb2e2757eb&amp;type=3#main" />
+    <ui:VisualElement class="main-panel" style="align-items: center; width: 100%; height: 100%; justify-content: center; background-color: rgba(22, 19, 19, 255);">
+        <ui:Label text="Загрузка..." display-tooltip-when-elided="true" class="Lable" style="margin-top: 0;" />
+    </ui:VisualElement>
+</ui:UXML>
